@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/pi/voorbeeldexamen/directoryHexa/Sources/main.c
+stdio.h
+-
+string.h
+-
+stdlib.h
+-
+dirent.h
+-
+

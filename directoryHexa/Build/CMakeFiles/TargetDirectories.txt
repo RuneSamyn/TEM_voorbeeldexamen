@@ -1,0 +1,3 @@
+/home/pi/voorbeeldexamen/directoryHexa/Build/CMakeFiles/rebuild_cache.dir
+/home/pi/voorbeeldexamen/directoryHexa/Build/CMakeFiles/readFileHexadecimal.dir
+/home/pi/voorbeeldexamen/directoryHexa/Build/CMakeFiles/edit_cache.dir
