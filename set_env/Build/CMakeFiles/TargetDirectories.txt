@@ -1,0 +1,3 @@
+/home/pi/voorbeeldexamen/set_env/Build/CMakeFiles/rebuild_cache.dir
+/home/pi/voorbeeldexamen/set_env/Build/CMakeFiles/set_env.dir
+/home/pi/voorbeeldexamen/set_env/Build/CMakeFiles/edit_cache.dir

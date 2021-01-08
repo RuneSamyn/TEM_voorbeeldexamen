@@ -1,0 +1,1 @@
+/usr/bin/cc   -rdynamic CMakeFiles/seekBegin.dir/main.c.o  -o seekBegin 

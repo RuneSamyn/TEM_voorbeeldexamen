@@ -1,0 +1,3 @@
+/home/pi/voorbeeldexamen/seekBegin/Build/CMakeFiles/rebuild_cache.dir
+/home/pi/voorbeeldexamen/seekBegin/Build/CMakeFiles/seekBegin.dir
+/home/pi/voorbeeldexamen/seekBegin/Build/CMakeFiles/edit_cache.dir
