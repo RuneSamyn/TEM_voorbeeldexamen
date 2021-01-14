@@ -87,7 +87,14 @@ int main(int argc, char *argv[])
     {
         int i = 0;
         name = strtok(argv[1], "=");
-        value = strtok(NULL, "="); // this will return the text between de first and secconde equal sine or in this case, the text between the first equal sine en the end of the string
+        if(name==NULL)
+            value = strtok(NULL, "="); // this will return the text between de first and secconde equal sign or in this case, the text between the first equal sign en the end of the string
+        else
+        {
+            printf("error: not enough arguments or no equal sign used\r\n");
+            error = 1;
+        }
+        
         error = 0;
     }
     else if (argc == 3)
@@ -98,7 +105,8 @@ int main(int argc, char *argv[])
     }
     else
     {
-        printf("error");
+        printf("error: wrong number of arguments\r\n");
+        printf("use set_env name=value or setenv name value\r\n");
         error = 1;
     }
 

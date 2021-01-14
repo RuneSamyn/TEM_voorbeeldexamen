@@ -1,0 +1,1 @@
+/usr/bin/cc   -rdynamic CMakeFiles/threadsAndMutex.dir/main.c.o  -o threadsAndMutex -lpthread 

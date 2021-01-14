@@ -1,3 +1,5 @@
 cmake_minimum_required (VERSION 2.6)
-project (threadsAndMutex)
+project (threadsAndMutex C CXX)
+find_package(Threads REQUIRED)
 add_executable(threadsAndMutex main.c)
+target_link_libraries (threadsAndMutex ${CMAKE_THREAD_LIBS_INIT})

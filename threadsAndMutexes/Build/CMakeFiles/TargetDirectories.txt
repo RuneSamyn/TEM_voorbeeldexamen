@@ -1,0 +1,3 @@
+/home/pi/voorbeeldexamen/threadsAndMutexes/Build/CMakeFiles/rebuild_cache.dir
+/home/pi/voorbeeldexamen/threadsAndMutexes/Build/CMakeFiles/threadsAndMutex.dir
+/home/pi/voorbeeldexamen/threadsAndMutexes/Build/CMakeFiles/edit_cache.dir

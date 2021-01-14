@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/pi/voorbeeldexamen/threadsAndMutexes/Sources/main.c
+stdio.h
+-
+string.h
+-
+stdlib.h
+-
+pthread.h
+-
+unistd.h
+-
+time.h
+-
+
