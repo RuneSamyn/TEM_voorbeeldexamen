@@ -1,0 +1,1 @@
+/usr/bin/cc   -rdynamic CMakeFiles/examen_TES.dir/main.c.o  -o examen_TES -lpthread 

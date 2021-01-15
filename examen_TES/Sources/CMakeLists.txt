@@ -1,0 +1,5 @@
+cmake_minimum_required (VERSION 2.6)
+project (examen_TES C CXX)
+find_package(Threads REQUIRED)
+add_executable(examen_TES main.c)
+target_link_libraries (examen_TES ${CMAKE_THREAD_LIBS_INIT})

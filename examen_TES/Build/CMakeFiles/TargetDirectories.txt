@@ -1,0 +1,3 @@
+/home/pi/voorbeeldexamen/examen_TES/Build/CMakeFiles/rebuild_cache.dir
+/home/pi/voorbeeldexamen/examen_TES/Build/CMakeFiles/examen_TES.dir
+/home/pi/voorbeeldexamen/examen_TES/Build/CMakeFiles/edit_cache.dir
